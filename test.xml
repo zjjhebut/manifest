@@ -5,6 +5,6 @@
     <default remote="test"  revision="master"/>
 
     <project name="fortest2" path="test2" />
-    <project name="gitrepotrainingtest" path="test1" />
+    <project name="gitrepotrainingtest" path="test1" revision="test" />
 
 </manifest>
