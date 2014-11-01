@@ -5,5 +5,5 @@
   <default remote="test" revision="master"/>
   
   <project name="fortest2" path="test2" revision="25f6a913f2087133ae1f8b64e30ee4b065de566b" upstream="master"/>
-  <project name="gitrepotrainingtest" path="test1" revision="12c712bfbc2a05c910595a2a4a6052fd21c57c07" upstream="test"/>
+  <project name="gitrepotrainingtest" path="test1" revision="77d7fcc068fb005c41161b4c76cdef6c831cfdab" upstream="test"/>
 </manifest>
