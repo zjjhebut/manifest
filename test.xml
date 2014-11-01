@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="test" fetch="https://github.com/zjjhebut" />
+
+    <default remote="test"  revision="master"/>
+
+    <project name="fortest2" path="test2" />
+    <project name="gitrepotrainingtest" path="test1" />
+
+</manifest>
